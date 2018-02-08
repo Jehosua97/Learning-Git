@@ -5,18 +5,21 @@ public class Figuras{
 		float area=0, perimetro=0;
 		int opcion;
 		float a,b;
-
-		final float PI=3.14159f; //final es para dejar un valor fijo
-								//la f al final se ocupa como valor fijo de decimales
+		final float PI=3.14159f; //final es para dejar un valor fijo			//la f al final se ocupa como valor fijo de decimales
 		Scanner sc = new Scanner(System.in); //Declramos un objeto que ayude a recibir de teclado
+		
+		
+JAJAJAAJ VAMOS A SABOTEAR ESTOOO
 
-
+	
+	
+	
 		System.out.println("Selcciona la opción");
 		System.out.println("1 .- Círculo");
 		System.out.println("2 .- Triángulo");	
 		System.out.println("3 .- Cuadrado");
 		System.out.println("4 .- Salir");
-
+hola amigos este es un nuevo comentario
 		opcion=sc.nextInt();
 
 		switch(opcion){
